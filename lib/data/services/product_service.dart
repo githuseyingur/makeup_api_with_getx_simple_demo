@@ -14,7 +14,6 @@ class ProductService{
       var jsonString = response.body;
       return productFromJson(jsonString);
     }else{
-      print("HATA VAR");
       return []; 
     }
   }

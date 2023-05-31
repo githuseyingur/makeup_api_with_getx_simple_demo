@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_getx_api_product_list/presentation/home/views/home_page.dart';
+import 'package:flutter_getx_api_product_list/presentation/home_page.dart';
 
 void main() {
   runApp(const MyApp());
