@@ -2,5 +2,5 @@
 
 
 
-<img src="https://github.com/githuseyingur/flutter_getx_restful_api_ecommerce_makeup/assets/120099096/d4ddaa1a-2a35-4b0e-9bd7-9a9198c60385"  width="320">
-<img src="https://github.com/githuseyingur/flutter_getx_restful_api_ecommerce_makeup/assets/120099096/40622096-f985-489b-94fb-cf1a3f58f076"  width="320">
+<img src="https://github.com/githuseyingur/flutter_getx_restful_api_ecommerce_makeup/assets/120099096/6ffb976d-11e5-4a64-aaa5-7b2f4ba77330"  width="320">
+<img src="https://github.com/githuseyingur/flutter_getx_restful_api_ecommerce_makeup/assets/120099096/ed60d92c-ca22-4b56-afe3-e8f7e619216c"  width="320">
